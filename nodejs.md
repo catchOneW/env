@@ -1,7 +1,6 @@
 ---
 title: nodejs授之以渔
-layout: page
-category: git
+category: nodejs
 date: 2017-04-14
 modifiedOn: 2017-04-14
 ---

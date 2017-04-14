@@ -1,0 +1,86 @@
+20170414
+发现以前很多很弱智的东西，都删除了
+
+js自带模块：
+为了js文件像dll那样，打包，取名方便引用。
+所以制作第三方必须要这个，零件化
+导出：module.exports.func1 = a;（module.exports就是个json把）
+引入：var b = require('./JavaScript2');b.func1();
+一个细节：require会把引用的js文件先执行一遍，然后得到的对象里的东西就是module.exports的json！
+
+
+多个js引用同一个js，module.exports加东西都会影响
+
+module.exports还有func，return json写法，func（）得到对象
+
+
+fs
+文件流：有node才支持require，支持js更丰富的语法，支持更多自带的js库！
+var fs = require('fs');
+fs.writeFileSync('a.txt','aaaaaaaaaaaaaaa');
+
+
+path
+路径：path
+path.normalize()=>字符串搞成windos的正确路径格式，主要是斜杠
+path获得目录dirname，后缀名extname，文件名
+
+http
+调用web server：
+监听端口
+传入回调func，封装好了注入的2个参数
+var http = require('http');
+function a(req,res) {
+    res.writeHead(200, {"Content-Type":"text/plain"});
+    res.write('11111111111');
+    res.end();
+};
+http.createServer(a).listen(8888);
+名称无所谓，位置是死的
+
+
+返回页面
+  res.writeHead(200, { "Content-Type": "text/html" });
+    fs.createReadStream('./HTMLPage1.html').pipe(res);
+
+
+连接connect
+管理路由
+var connect = require('connect');
+var router = connect();
+function a() {
+    console.log(1111);
+}
+
+
+function b() {
+    console.log(2222);
+}
+router.use('/a',a);
+router.use('/b',b);
+http.createServer(router).listen(8888);
+
+发现一个细节，在node里面而不是cmd里，直接输出js类库名字，可以查看所有细节
+如http，fs，可以查看api
+
+16集
+express要单独安装
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

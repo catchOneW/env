@@ -20,6 +20,11 @@ npm config set disturl https://npm.taobao.org/dist --global
 npm init
 npm install
 npm start
+
+npm config get prefix
+
+NODE_PATH
+C:\Users\Administrator\AppData\Roaming\npm\node_modules
 ```javascript
 
 ```

@@ -19,7 +19,7 @@ npm config set disturl https://npm.taobao.org/dist --global
 ## 4npm命令
 npm init
 npm install
-npm start
+npm start(package.json里的scripts=>start,F5则是启动vscode里的json配置启动路径${workspaceRoot},毕竟vscode也是nodejs做的)
 
 npm config get prefix
 

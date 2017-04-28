@@ -7,3 +7,9 @@ home：用来取值的而已 home=aaaaaaa  =>  %home% =aaaaaaaaaaaaa
 classpath:java需要读这个路径你就配
 
 安装程序只是更方便你配置的图形界面
+
+
+maven:
+D:\javaEnviroment\apache-maven-3.5.0\conf\settings.xml
+添加<localRepository>D:\javaEnviroment\apache-maven-3.5.0\repository</localRepository>指向所有jar包，用的时候
+直接在pom.xml里添加<dependency>就行了

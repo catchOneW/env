@@ -1,0 +1,5 @@
+#环境变量
+不需要安装，直接解压zip生成和安装后一样的文件夹
+如java，maven，tomcat这些exe运行时，会去访问windows api，访问系统变量，取路径值，去查找目录
+home：用来取值的而已 home=aaaaaaa  =>  %home% =aaaaaaaaaaaaa
+最关键的path:  =>bin目录          =>   %home%\bin

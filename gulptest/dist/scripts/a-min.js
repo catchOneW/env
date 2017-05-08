@@ -1,0 +1,1 @@
+function name(n){console.log(1)}

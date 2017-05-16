@@ -24,5 +24,7 @@ java:
 csdn:
 存储,计算
 http://blog.csdn.net/yinwenjie/article/
+数据挖掘
+http://blog.csdn.net/androidlushangderen/article/
 
 cnblog:

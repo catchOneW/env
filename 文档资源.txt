@@ -19,3 +19,10 @@ the art of sql
 java:
 并发实践
 
+
+
+csdn:
+存储,计算
+http://blog.csdn.net/yinwenjie/article/
+
+cnblog:

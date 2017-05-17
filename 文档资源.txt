@@ -28,3 +28,5 @@ http://blog.csdn.net/yinwenjie/article/
 http://blog.csdn.net/androidlushangderen/article/
 
 cnblog:
+oracle的库表比对工具
+http://www.cnblogs.com/wertou/archive/2008/10/18/1313836.html

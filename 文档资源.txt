@@ -30,3 +30,16 @@ http://blog.csdn.net/androidlushangderen/article/
 cnblog:
 oracle的库表比对工具
 http://www.cnblogs.com/wertou/archive/2008/10/18/1313836.html
+
+
+oracle=>powerdesign
+http://www.cnblogs.com/xusir/archive/2013/06/24/3152400.html
+
+代码统计注释率工具
+SourceCounter
+
+文件对比工具
+Beyond Compare 4
+
+vs2013测试插件
+unit

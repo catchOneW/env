@@ -5,6 +5,9 @@ http://wiki.jikexueyuan.com/list/front-end/
 http://www.ofmonkey.com/
 bejson
 
+前端知识图：
+http://html5ify.com/fks/fks_chart/
+
 
 书单：
 js：

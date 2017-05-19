@@ -55,3 +55,49 @@ linecounter
 http://www.cnblogs.com/cannel/p/3822324.html
 
 oracle=>EA(client odbc数据源),PowerDesign的关系图
+
+
+权限配置+tree控件
+嵌套数据
+mouseup鼠标值123
+springmvc：
+时间数字日历直接用的,parseFloat
+类嵌套，消息转换器xml
+
+3级tab控制
+前后台currentuser
+iscounty
+iscity
+isprovin
+全部switch
+
+面积验证，填写控制
+ng-form
+标签名+表单名+错误字符串+验证方法
+指令
+ 
+审核上报流程
+审核=》spot
+上报=>regionid
+
+统计分析,导出
+区县分组
+反射注解
+
+并宗分析
+
+
+分支重置
+reset to 
+stash save
+stash pop
+
+了解标签css
+指定宽高的影响
+div:clear both
+label+select float: none;
+小叉叉float: right;
+    width: 22px;
+    height: 100%;
+    background: transparent url(/image/close_gray.png) no-repeat right 5px center;
+

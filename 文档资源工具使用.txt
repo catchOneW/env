@@ -5,6 +5,9 @@ http://wiki.jikexueyuan.com/list/front-end/
 http://www.ofmonkey.com/
 bejson
 
+前端知识图：
+http://html5ify.com/fks/fks_chart/
+
 
 书单：
 js：
@@ -24,5 +27,40 @@ java:
 csdn:
 存储,计算
 http://blog.csdn.net/yinwenjie/article/
+数据挖掘
+http://blog.csdn.net/androidlushangderen/article/
 
 cnblog:
+oracle的库表比对工具
+http://www.cnblogs.com/wertou/archive/2008/10/18/1313836.html
+
+
+oracle=>powerdesign
+http://www.cnblogs.com/xusir/archive/2013/06/24/3152400.html
+
+代码统计注释率工具
+SourceCounter
+
+文件对比工具
+Beyond Compare 4
+
+vs2013测试插件
+unit
+
+
+注释率
+linecounter
+
+服务端=》注释=》目录API
+http://www.cnblogs.com/cannel/p/3822324.html
+
+oracle=>EA(client odbc数据源),PowerDesign的关系图
+
+
+
+
+git分支重置
+reset to 
+stash save
+stash pop
+

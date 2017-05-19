@@ -1,0 +1,27 @@
+
+常用标签的测试效果：
+label,span,div,select,button
+
+
+css
+指定宽：浮动没达到效果的话
+css
+指定高：滚动条的出现
+
+
+
+
+清除浮动
+div:clear both
+
+
+
+下拉框
+label+select float: none;
+
+
+一些直接用图片实现的功能按钮：
+小叉叉float: right;
+    width: 22px;
+    height: 100%;
+    background: transparent url(/image/close_gray.png) no-repeat right 5px center;

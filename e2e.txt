@@ -17,3 +17,15 @@ springMVC消息转换器xml
 时间到后台若不一致：
 tolocaltime()
 
+--------
+面向集合的sql
+row_number() over
+exists 审核状态
+not exists 审核状态
+in 节点状态
+with as 公用数据集合:如行政区划
+or(a and b)图斑类型&&相应的节点状态
+
+弄清楚
+状态，流程，相应数据
+

@@ -8,7 +8,7 @@ bejson
 前端知识图：
 http://html5ify.com/fks/fks_chart/
 
-
+-------------------
 书单：
 js：
 js语言精粹
@@ -23,7 +23,7 @@ java:
 并发实践
 
 
-
+------------------
 csdn:
 存储,计算
 http://blog.csdn.net/yinwenjie/article/
@@ -41,7 +41,7 @@ http://www.cnblogs.com/xusir/archive/2013/06/24/3152400.html
 代码统计注释率工具
 SourceCounter
 
-文件对比工具
+文件对比工具(sql美化后对比神器)
 Beyond Compare 4
 
 vs2013测试插件
@@ -51,14 +51,14 @@ unit
 注释率
 linecounter
 
-服务端=》注释=》目录API
+---------------------------------
+注释=》API电子书:
 http://www.cnblogs.com/cannel/p/3822324.html
 
+表关系图:
 oracle=>EA(client odbc数据源),PowerDesign的关系图
 
-
-
-
+--------------------------------------------
 git分支重置
 reset to 
 stash save

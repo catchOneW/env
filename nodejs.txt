@@ -1,26 +1,30 @@
 
-## 1.¸ÅÊö
-É¾³ıÁËÒ»Ğ©ÒÔÇ°µÄÒ»Ğ©Àí½â
+## 1.æ¦‚è¿°
+åˆ é™¤äº†ä¸€äº›ä»¥å‰çš„ä¸€äº›ç†è§£
 
-## 2.²é¿´nodeÄ£¿éapi
-node´°¿ÚÀï£¬Ö±½ÓÊä³öjsÀà¿âÃû×Ö.....
+## 2.æŸ¥çœ‹nodeæ¨¡å—api
+nodeçª—å£é‡Œï¼Œç›´æ¥è¾“å‡ºjsç±»åº“åå­—.....
 
 
-## 3¾µÏñĞŞ¸Ä£¬error=¡·warn
+## 3é•œåƒä¿®æ”¹ï¼Œerror=ã€‹warn
 npm config set registry https://registry.npm.taobao.org --global
 
 npm config set disturl https://npm.taobao.org/dist --global
 
-## 4npmÃüÁî
+## 4npmå‘½ä»¤
 npm init
 npm install
-npm start(package.jsonÀïµÄscripts=>start,F5ÔòÊÇÆô¶¯vscodeÀïµÄjsonÅäÖÃÆô¶¯Â·¾¶${workspaceRoot},±Ï¾¹vscodeÒ²ÊÇnodejs×öµÄ)
+npm start(package.jsoné‡Œçš„scripts=>start,F5åˆ™æ˜¯å¯åŠ¨vscodeé‡Œçš„jsoné…ç½®å¯åŠ¨è·¯å¾„${workspaceRoot},æ¯•ç«Ÿvscodeä¹Ÿæ˜¯nodejsåšçš„)
 
 npm config get prefix
 
 NODE_PATH
 C:\Users\Administrator\AppData\Roaming\npm\node_modules
+
+
 ```javascript
+var tmp = /\d+(?=\+)/.exec(str);
+var d = new Date(+tmp);
 
 ```
 

@@ -63,4 +63,5 @@ git分支重置
 reset to 
 stash save
 stash pop
+无冲突:clean up,移除引用添加引用
 

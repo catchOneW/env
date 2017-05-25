@@ -24,11 +24,19 @@ java:
 
 
 ------------------
+c#官方:
+https://docs.microsoft.com/en-us/dotnet/articles/csharp/language-reference/keywords/lock-statement
+https://msdn.microsoft.com/zh-cn/library/c5kehkcz(VS.80).aspx
+dll：
+CSharp.DataStructures
+
 csdn:
 存储,计算
 http://blog.csdn.net/yinwenjie/article/
 数据挖掘
 http://blog.csdn.net/androidlushangderen/article/
+NH
+http://blog.csdn.net/zhang_xinxiu/article/details/42131907
 
 cnblog:
 oracle的库表比对工具

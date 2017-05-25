@@ -33,6 +33,8 @@ csdn:
 http://blog.csdn.net/yinwenjie/article/
 数据挖掘
 http://blog.csdn.net/androidlushangderen/article/
+NH
+http://blog.csdn.net/zhang_xinxiu/article/details/42131907
 
 cnblog:
 oracle的库表比对工具

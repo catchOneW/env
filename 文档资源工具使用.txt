@@ -27,6 +27,8 @@ java:
 c#官方:
 https://docs.microsoft.com/en-us/dotnet/articles/csharp/language-reference/keywords/lock-statement
 https://msdn.microsoft.com/zh-cn/library/c5kehkcz(VS.80).aspx
+dll：
+CSharp.DataStructures
 
 csdn:
 存储,计算

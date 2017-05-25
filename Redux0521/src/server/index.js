@@ -1,3 +1,4 @@
+// @flow
 import Cat from '../shared/dog';
 const toby = new Cat('Toby');
 

@@ -6,6 +6,9 @@ import eslint from 'gulp-eslint';
 import del from 'del';
 import webpack from 'webpack-stream';
 import webpackConfig from './webpack.config.babel';
+import mocha from 'gulp-mocha';
+import flow from 'gulp-flowtype';
+
 
 const paths = {
   allSrcJs: 'src/**/*.js?(x)',
@@ -17,6 +20,7 @@ const paths = {
   webpackFile: 'webpack.config.babel.js',
   libDir: 'lib',
   distDir: 'dist',
+   allLibTests: 'lib/test/**/*.js',
 };
 gulp.task('lint', () =>
   gulp.src([
@@ -27,6 +31,7 @@ gulp.task('lint', () =>
     .pipe(eslint())
     .pipe(eslint.format())
     .pipe(eslint.failAfterError())
+    .pipe(flow({ abort: true })) // Add Flow here
 );
 gulp.task('clean', () => del([
   paths.libDir,
@@ -45,7 +50,7 @@ gulp.task('build', ['clean'], () =>
 //     return callback(error);
 //   });
 // });
-gulp.task('main', ['clean'], () =>
+gulp.task('main', ['clean','test'], () =>
   gulp.src(paths.clientEntryPoint)
     .pipe(webpack(webpackConfig))
     .pipe(gulp.dest(paths.distDir))
@@ -55,4 +60,8 @@ gulp.task('watch', () => {
   gulp.watch(paths.allSrcJs, ['main']);
 });
 
+gulp.task('test', ['build'], () =>
+  gulp.src(paths.allLibTests)
+    .pipe(mocha())
+);
 gulp.task('default', ['watch', 'main']);

@@ -1,27 +1,30 @@
 
-³£ÓÃ±êÇ©µÄ²âÊÔĞ§¹û£º
+å¸¸ç”¨æ ‡ç­¾çš„æµ‹è¯•æ•ˆæœï¼š
 label,span,div,select,button
 
 
-css
-Ö¸¶¨¿í£º¸¡¶¯Ã»´ïµ½Ğ§¹ûµÄ»°
-css
-Ö¸¶¨¸ß£º¹ö¶¯ÌõµÄ³öÏÖ
+div
+æŒ‡å®šå®½ï¼šæµ®åŠ¨æ²¡è¾¾åˆ°æ•ˆæœçš„è¯,é”™ä½
+div
+æŒ‡å®šé«˜ï¼šæ»šåŠ¨æ¡çš„å‡ºç°
+
+divè¦†ç›–æŒ‰é’®ä¸èƒ½ç‚¹å‡»
+æŒ‰é’®style="z-index: 1;position: relative;"
 
 
 
 
-Çå³ı¸¡¶¯
+æ¸…é™¤æµ®åŠ¨
 div:clear both
 
 
 
-ÏÂÀ­¿ò
+ä¸‹æ‹‰æ¡†
 label+select float: none;
 
 
-Ò»Ğ©Ö±½ÓÓÃÍ¼Æ¬ÊµÏÖµÄ¹¦ÄÜ°´Å¥£º
-Ğ¡²æ²æfloat: right;
+ä¸€äº›ç›´æ¥ç”¨å›¾ç‰‡å®ç°çš„åŠŸèƒ½æŒ‰é’®ï¼š
+å°å‰å‰float: right;
     width: 22px;
     height: 100%;
     background: transparent url(/image/close_gray.png) no-repeat right 5px center;

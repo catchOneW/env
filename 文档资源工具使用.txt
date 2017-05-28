@@ -3,15 +3,22 @@
 主动：通过资源去理解知识体系
 ------------------------------------前端知识体系图------------------------------------
 http://html5ify.com/fks/fks_chart/
-------------------------------------很棒的网站(git,get understanding by coding)，博客(get understanding by watching)-----------------
+-----------------------------------很棒的网站--------------------
+git
+get understanding by coding
+------------------------------------社区--------------------
+react社区：
+http://react-china.org
+-------------------------------------官网--------------
 js：
 https://javascriptair.com
 
+dll：
+CSharp.DataStructures
+-------------------------------------博客-------------------------
 c#官方:
 https://docs.microsoft.com/en-us/dotnet/articles/csharp/language-reference/keywords/lock-statement
 https://msdn.microsoft.com/zh-cn/library/c5kehkcz(VS.80).aspx
-dll：
-CSharp.DataStructures
 
 csdn:
 存储,计算
@@ -24,14 +31,14 @@ http://blog.csdn.net/zhang_xinxiu/article/details/42131907
 cnblog:
 oracle的库表比对工具
 http://www.cnblogs.com/wertou/archive/2008/10/18/1313836.html
-----------------------mooc(get understanding by hearing)------------------------
+----------------------mooc网站(get understanding by hearing)------------------------
 jike学院
 http://wiki.jikexueyuan.com/list/front-end/
 csdn:
 http://edu.csdn.net/courses
 慧智网
 http://www.hubwiz.com/course/566e67417e7d40946afc5ddc/
----------------------很棒的书(get understanding by time)-------------------------
+---------------------------------很棒的书(get understanding by time)-------------------------
 电子书网站：
 http://www.it-ebooks.info/
 

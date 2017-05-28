@@ -1,6 +1,9 @@
+时间：有效率的那么几个小时
+地点：舒适
+主动：通过资源去理解知识体系
 ------------------------------------前端知识体系图------------------------------------
 http://html5ify.com/fks/fks_chart/
-------------------------------------很棒的网站(git,get understanding by coding)，博客(get understanding by watching)---------------------------
+------------------------------------很棒的网站(git,get understanding by coding)，博客(get understanding by watching)-----------------
 js：
 https://javascriptair.com
 

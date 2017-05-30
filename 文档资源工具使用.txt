@@ -55,7 +55,6 @@ java:
 http://www.ofmonkey.com/
 bejson
 
-$.get('https://api.github.com/users/octocat/gists')
 
 -------------------------------------很棒的工具---------------
 oracle=>powerdesign
@@ -87,3 +86,8 @@ stash save
 stash pop
 无冲突:clean up,移除引用添加引用
 
+json数据获取:
+git仓库：地址，名称，收藏数，描述
+$.getJSON('https://api.github.com/search/repositories?q=javascript&sort=stars')
+gists
+$.get('https://api.github.com/users/octocat/gists')

@@ -55,6 +55,8 @@ java:
 http://www.ofmonkey.com/
 bejson
 
+$.get('https://api.github.com/users/octocat/gists')
+
 -------------------------------------很棒的工具---------------
 oracle=>powerdesign
 http://www.cnblogs.com/xusir/archive/2013/06/24/3152400.html

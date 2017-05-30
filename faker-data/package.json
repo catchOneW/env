@@ -1,0 +1,15 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "datademo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker-zh-cn": "^0.5.9",
+    "pinyin": "^2.8.3"
+  }
+}

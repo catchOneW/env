@@ -17,6 +17,9 @@ springMVC消息转换器xml
 时间到后台若不一致：
 tolocaltime()
 
+js时间传字符串到后台
+(new Date()).toISOString().slice(0,10)
+
 --------
 面向集合的sql
 row_number() over

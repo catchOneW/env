@@ -20,6 +20,11 @@ tolocaltime()
 js时间传字符串到后台
 (new Date()).toISOString().slice(0,10)
 
+wcf到js时间
+var tmp = /\d+(?=\+)/.exec(str);
+var d = new Date(+tmp);
+str = d.getFullYear() + '/' + (+d.getMonth() + 1) + '/' + d.getDate();
+
 --------
 面向集合的sql
 row_number() over

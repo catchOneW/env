@@ -19,6 +19,8 @@ tolocaltime()
 
 js时间传字符串到后台
 (new Date()).toISOString().slice(0,10)
+new Date(2017, 4, 1)
+Mon May 01 2017
 
 wcf到js时间
 var tmp = /\d+(?=\+)/.exec(str);

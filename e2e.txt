@@ -55,3 +55,9 @@ plsql对象+程序语句+系统包
 keycode 127键
 charcode 0~127
 mousecode 1 2 3
+
+内存平台分配
+32 2G
+64 多
+加上手动GC回收
+

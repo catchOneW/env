@@ -91,3 +91,8 @@ git仓库：地址，名称，收藏数，描述
 $.getJSON('https://api.github.com/search/repositories?q=javascript&sort=stars')
 gists
 $.get('https://api.github.com/users/octocat/gists')
+------------------c语言视频，已删除---------
+郝斌C语言视频教程
+-----------------java视频-----------
+java1234简洁
+马士兵经典

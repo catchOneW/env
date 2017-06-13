@@ -1,15 +1,20 @@
-»·¾³±äÁ¿
-²»ĞèÒª°²×°£¬Ö±½Ó½âÑ¹zipÉú³ÉºÍ°²×°ºóÒ»ÑùµÄÎÄ¼ş¼Ğ
-Èçjava£¬maven£¬tomcatÕâĞ©exeÔËĞĞÊ±£¬»áÈ¥·ÃÎÊwindows api£¬·ÃÎÊÏµÍ³±äÁ¿£¬È¡Â·¾¶Öµ£¬È¥²éÕÒÄ¿Â¼
-home£ºÓÃÀ´È¡ÖµµÄ¶øÒÑ home=aaaaaaa  =>  %home% =aaaaaaaaaaaaa
-×î¹Ø¼üµÄpath:  =>binÄ¿Â¼          =>   %home%\bin
+ç¯å¢ƒå˜é‡
+ä¸éœ€è¦å®‰è£…ï¼Œç›´æ¥è§£å‹zipç”Ÿæˆå’Œå®‰è£…åä¸€æ ·çš„æ–‡ä»¶å¤¹
+å¦‚javaï¼Œmavenï¼Œtomcatè¿™äº›exeè¿è¡Œæ—¶ï¼Œä¼šå»è®¿é—®windows apiï¼Œè®¿é—®ç³»ç»Ÿå˜é‡ï¼Œå–è·¯å¾„å€¼ï¼Œå»æŸ¥æ‰¾ç›®å½•
+homeï¼šç”¨æ¥å–å€¼çš„è€Œå·² home=aaaaaaa  =>  %home% =aaaaaaaaaaaaa
+æœ€å…³é”®çš„path:  =>binç›®å½•          =>   %home%\bin
 
-classpath:javaĞèÒª¶ÁÕâ¸öÂ·¾¶Äã¾ÍÅä
+classpath:javaéœ€è¦è¯»è¿™ä¸ªè·¯å¾„ä½ å°±é…
 
-°²×°³ÌĞòÖ»ÊÇ¸ü·½±ãÄãÅäÖÃµÄÍ¼ĞÎ½çÃæ
+å®‰è£…ç¨‹åºåªæ˜¯æ›´æ–¹ä¾¿ä½ é…ç½®çš„å›¾å½¢ç•Œé¢
 
 
 maven:
 D:\javaEnviroment\apache-maven-3.5.0\conf\settings.xml
-Ìí¼Ó<localRepository>D:\javaEnviroment\apache-maven-3.5.0\repository</localRepository>Ö¸ÏòËùÓĞjar°ü£¬ÓÃµÄÊ±ºò
-Ö±½ÓÔÚpom.xmlÀïÌí¼Ó<dependency>¾ÍĞĞÁË
+æ·»åŠ <localRepository>D:\javaEnviroment\apache-maven-3.5.0\repository</localRepository>æŒ‡å‘æ‰€æœ‰jaråŒ…ï¼Œç”¨çš„æ—¶å€™
+ç›´æ¥åœ¨pom.xmlé‡Œæ·»åŠ <dependency>å°±è¡Œäº†
+
+
+javaæ–‡ä»¶æŠ¥é”™xæ ‡è®°
+æ–‡ä»¶å¤¹åŠ å…¥java source
+src/lib çš„jaråŒ…build to path

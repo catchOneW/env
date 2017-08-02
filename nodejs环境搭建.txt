@@ -32,6 +32,29 @@ http://www.welefen.com/
 
 
 
+var person = {
+    name: 11,
+    age: 20
+
+
+}
+var b = {
+    checkname: function (a) {
+        console.log('111111111');
+    },
+    checkage: function (a) {
+        console.log('22222222');
+    },
+    checkage2: function (a) {
+        console.log('3333333');
+    }
+}
+
+for (var key in person) {
+    if (person.hasOwnProperty(key)) {
+        if (b['check' + key]) b['check' + key](person[key]);
+    }
+}
 
 
 

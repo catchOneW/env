@@ -23,6 +23,21 @@
      -webkit-line-clamp: 2;//control show how much line 
      -webkit-box-orient: vertical;
 }
+
+.justifyAlignText{
+    width:100px;
+    display:inline-block;
+    border:1px solid red;
+    text-align:justify;
+    height:20px;
+    overflow:hidden;
+    &::after{
+        content:'';
+        border:1px solid blue;
+        width:100%;
+        display:inline-block;
+      }
+  }
 //img
 
 //header

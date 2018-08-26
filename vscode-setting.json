@@ -1,0 +1,33 @@
+{
+    "files.autoSave": "afterDelay",
+    "extensions.ignoreRecommendations": true,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.fontSize": 16,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        {
+            "language": "vue",
+            "autoFix": true
+        }
+    ],
+    "eslint.options": {
+        "plugins": [
+            "html"
+        ]
+    },
+    "window.zoomLevel": 0,
+    "git.enableSmartCommit": true,
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "prettier.singleQuote": true,
+    "prettier.semi": false
+}
+
+
+//ewrap
+//regx

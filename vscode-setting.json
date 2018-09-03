@@ -5,7 +5,14 @@
     "editor.fontSize": 16,
     "emmet.includeLanguages": {
         "vue-html": "html",
-        "vue": "html"
+        "vue": "html",
+        "javascript": "javascriptreact"
+    },
+    "files.associations": {
+        "*.vue": "vue",
+        "*.wpy": "vue",
+        "*.wxml": "html",
+        "*.wxss": "css"
     },
     "eslint.validate": [
         "javascript",
@@ -27,7 +34,3 @@
     "prettier.singleQuote": true,
     "prettier.semi": false
 }
-
-
-//ewrap
-//regx

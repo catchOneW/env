@@ -31,6 +31,11 @@
     "window.zoomLevel": 0,
     "git.enableSmartCommit": true,
     "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "vetur.format.defaultFormatterOptions": {
+        "js-beautify-html": {
+            "wrap_attributes": "force-aligned"
+        }
+    },
     "prettier.singleQuote": true,
     "prettier.semi": false
 }
